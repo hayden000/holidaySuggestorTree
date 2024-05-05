@@ -1,0 +1,7 @@
+1Do you like cold weather?,
+1Are you a keen hiker? ,
+0The Scottish Highlands,
+0Moscow,
+1Do you prefer the Atlantic Ocean?,
+0Tenerife,
+0Goa,
